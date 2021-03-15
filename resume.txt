@@ -1,0 +1,102 @@
+						        		     VARUN K	      
+  								      Mail: varun.k@testyantra.in
+      Mobile no: 7892295839	
+ 
+Career Objective
+In pursuit of challenging assignments which would facilitate the maximum utilization and application of my skills and expertise in making a positive difference to the organisation.
+ 
+Profile Summary
+•	Total 4+ years of Professional experience in Software testing.
+•	2years experience in manual testing.
+•	2years experience in automation testing.
+
+Technical Skills
+Selenium Skill:
+•	Experience in writing Xpath.
+•	Good exposure of locators.
+•	Experience in handling dropdowns, Mouse Hover actions, Frame handling.
+•	Expertise in handling Popups.
+•	Expertise in unit testing framework tool Test-NG.
+•	Expertise in Test-NG listener.
+•	Experience in creating test scripts using TestNG annotations.
+•	Experience in Assertions for verification.
+•	Hands on Experience of build testing tool Apache maven.
+•	Experience in continuous integration tool Jenkins.
+•	Hands on Experience to read and write Properties file.
+•	Expertise to read and write data from Excel Sheet.
+•	Expertise in selenium library Apache POI for Data driven in Selenium.
+•	Hands on experience in working with Hybrid Framework (using POM CLASSES) using Selenium.
+•	Implemented OOPS concept in Selenium Automation Framework.
+
+Core Java Skill:
+•	Good Knowledge of OOPS Concepts: Classes, Methods, Constructors, Inheritance, Method Overloading and Method Overriding.
+•	Knowledge of Exception handling.
+•	Good Knowledge of Abstract classes, Interface, Typecasting, Encapsulation, Polymorphism and Collection.
+
+
+
+
+
+Manual Skill:
+•	I have good exposure of STLC and SDLC.
+•	I have good exposure of reviewing the test cases.
+•	Proficient in Bug Life Cycle and Requirement Traceability Matrix (RTM).
+•	Hands on experience in Smoke Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, End to-End Testing and Re-Testing.
+•	Good Knowledge of V Model, Spiral Model, Hybrid Model and Agile Model.
+•	Expertise in Ad Hoc Testing, Compatibility Testing, Build Verification Testing, Exploratory Testing.
+
+
+Relevant Skills
+
+Operating Systems               : Windows 7, 8 and 10.
+Software Testing	           :   Automation Testing and Manual Testing
+Autmation Framework        : Hybrid Framework
+Automated Tools 	            :   Selenium Web Driver
+Development environment   :   Eclipse
+Programming Language      :   Java
+Other Tools                           :   TestNG, Jenkins, Maven, GitHub.
+Educational Qualification
+•	Graduated in BE from Don Bosco Institute of Technology in 2014.
+Work Experience
+•	Currently working as Software Test Engineer in TestYantra Software Solutions.
+•	Worked as Senior Software Test Engineer in Utsah Software Solutions from feb 2017 to feb 2021.
+Projects Handled
+PROJECT 2: ICMT
+Duration:2019-2021
+Domain: ERP
+Testing: Automation Testing
+Project description: This is a web application. This application is very user friendly for the end users and provides various advance search option to find and track their business continuously. It contains many modules like Sales modules, Purchase module, Stock module, logistics module, manufacturing module and Admin Module. The Sales module deals with the customers, proposal, contract, order and invoice. The Purchase module deals with Suppliers along with related segments in the organization. The admin module deals with creating new User or new Group and linking both. Stock module deals with tracking the product details and warehouse details.
+
+Roles & Responsibilities: 
+•	Responsible for understanding the application and business flow of the application.
+•	Responsible for developing Automation Script by converting Regression Test Cases.
+•	Responsible for Performing Smoke Testing, Functional Testing, Integration Testing.
+•	Involved in finding the bugs and reporting bug.
+•	Responsible for batch execution.
+•	Involved in Daily Stand-up Meeting and Responsible for reporting daily status report.
+•	Maintain the test data.
+•	Involved in giving KT sessions.
+•	Participated in Agile meetings.
+•	Maintain the page object repository.
+•	Perform debugging if any script fails and resolve the error.
+
+
+PROJECT 1:
+Duration:2017-2019
+Domain: CRM
+Testing: Manual Testing
+Project description: 
+
+Roles & Responsibilities: 
+•	Responsible for understanding the application and business flow of the application.
+•	Responsible for developing Automation Script by converting Regression Test Cases.
+•	Responsible for Performing Smoke Testing, Functional Testing, Integration Testing.
+•	Involved in finding the bugs and reporting bug.
+•	Responsible for batch execution.
+•	Involved in Daily Stand-up Meeting and Responsible for reporting daily status report.
+•	Responsible for batch execution.
+•	Maintain the test data.
+•	Involved in giving KT sessions.
+•	Participated in Agile meetings.
+•	Maintain the page object repository.
+•	Perform debugging if any script fails and resolve the error.
