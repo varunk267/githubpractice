@@ -13,5 +13,9 @@ public void contact(String s)
 {
 	System.out.println(s);
 }
+public void aa()
+{
+	
+}
 }
 
