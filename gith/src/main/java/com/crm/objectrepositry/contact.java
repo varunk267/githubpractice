@@ -5,4 +5,8 @@ public void test()
 {
 	
 }
+public void contact(String s,int a)
+{
+	System.out.println(s+""+a);
+}
 }
